@@ -1,4 +1,7 @@
 # iot-jarakjauh
+
+Buatlah rangkaian led dengan pin d2
+
 buka website blynk -> start free -> buat akun -> login
 new template -> nama file (bebas) -> hardware pilih "ESP8266" -> Connection type "wifi" -> klik "done"
 
